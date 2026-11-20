@@ -71,10 +71,10 @@ Soy estudiante de **Ingeniería de Sistemas** en la Corporación Universitaria M
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JamesLozano1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesLozano1&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JamesLozano1&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -101,6 +101,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la Corporación Universitaria M
 
 *"Primero haz que funcione, luego hazlo bien, después hazlo rápido."*
 
-![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&color=2f81f7&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=JamesLozano1&label=Visitas&color=2f81f7&style=flat-square)
 
 </div>
