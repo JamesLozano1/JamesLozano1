@@ -10,7 +10,7 @@
 ![Sistemas](https://img.shields.io/badge/Ingenier%C3%ADa_de_Sistemas-1E8449?style=for-the-badge)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-FFD700?style=for-the-badge&logo=unrealengine&logoColor=black)
 [![Email](https://img.shields.io/badge/Email-jamesytft@gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesytft@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-1E8449?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-1E8449?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-francois-lozano-gordillo-87b412285/)
 
 </div>
 
